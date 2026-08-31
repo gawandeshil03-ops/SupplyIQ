@@ -1,6 +1,6 @@
 # SupplyIQ — Supply Chain Analytics
 
-[Portfolio Home](https://github.com/gawandeshil100-a11y) · [Original Repository](https://github.com/MohammedYusufL/SupplyIQ-Power-BI-Supply-Chain-Analytics)
+[Portfolio Home](https://github.com/gawandeshil03-ops) · [Original Repository](https://github.com/gawandeshil03-ops/SupplyIQ)
 
 ## Project Overview
 
@@ -115,16 +115,9 @@ K-Means clustering based on variables such as:
 - Add route and warehouse optimization scenarios
 - Automate dataset refresh and validation
 
-## Attribution and License
 
-- **Original project:** SupplyIQ — Power BI Supply Chain Analytics
-- **Original author:** Mohammed Yusuf Lahori
-- **Source:** [github.com/MohammedYusufL/SupplyIQ-Power-BI-Supply-Chain-Analytics](https://github.com/MohammedYusufL/SupplyIQ-Power-BI-Supply-Chain-Analytics)
-- **License in supplied project:** MIT License
-
-Retain the original license and copyright notice when using or redistributing licensed project files.
 
 ## Portfolio Contact
 
-**Shil Gawande** · [LinkedIn](https://www.linkedin.com/in/shilgawande2004) · [GitHub](https://github.com/gawandeshil100-a11y) · +91 9172937014
+**Shil Gawande** · [LinkedIn](https://www.linkedin.com/in/shilgawande2004) · [GitHub](https://github.com/gawandeshil03-ops/SupplyIQ) · +91 9172937014
 
